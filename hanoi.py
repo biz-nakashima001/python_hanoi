@@ -69,4 +69,5 @@ if __name__ == '__main__':
     print(c)
     time.sleep(sleep)
 
-    hanoi(n, 'a','b','c')
+    # hanoi(n, 'a','b','c')
+    hanoi(n, 'a','c','b')
